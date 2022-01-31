@@ -4,4 +4,4 @@ Tmall is the largest B2C platform in China with over 500 million registered cust
 
 Scrape Tmall to get insight about brand/category GMV trend, arising popular brand, product pricing, sales rating and reviews, product specs etc. Data analyst or data scientist can leverage the data for industrial research/ecommerce research/investment research/brand research etc.. Extract the product listings of Tmall.com into an editable format which makes the data analysis easy to go. 
 
-Contact xf2108@gmail.com if interested in learning more.
+Please note that the repo is no longer maintained here. Contact author to learn more about our projects.
